@@ -24,14 +24,14 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-//AFEGIR LINK CAP A RESTAPI
+
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
             <li  class="nav-item">
-                <a text-align="right" class="nav-link" href="test">Inici</a>
+                <a text-align="right" class="nav-link" href="index.ftl">Inici</a>
             </li>
             <li  class="nav-item">
-                <a text-align="right" class="nav-link" href="test">RestApi</a>
+                <a text-align="right" class="nav-link" href="/rest/api/v1">RestApi</a>
             </li>
 
         </ul>
