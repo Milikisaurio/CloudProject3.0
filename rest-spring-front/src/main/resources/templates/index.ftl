@@ -31,7 +31,7 @@
                 <a text-align="right" class="nav-link" href="index.ftl">Inici</a>
             </li>
             <li  class="nav-item">
-                <a text-align="right" class="nav-link" href="/rest/api/v1">RestApi</a>
+                <a text-align="right" class="nav-link" href="/rest/api/v1/restaurants">RestApi</a>
             </li>
 
         </ul>
